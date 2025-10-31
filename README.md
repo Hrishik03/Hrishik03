@@ -3,7 +3,10 @@
 
 
 
-- 🌱 I’m currently learning MERN Stack Development
+- 🌱 I’m a Web Developer passionate about creating modern web applications.
+- 🤖 I have a keen interest in Generative AI, exploring how AI can enhance creativity and automation.
+- 🌍 Tech enthusiast who loves learning new frameworks, tools, and emerging technologies
+- 🚀 Always learning, building, and sharing to grow as a developer and stay ahead in the tech world.
  
   
 
